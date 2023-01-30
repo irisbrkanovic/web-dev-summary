@@ -1,0 +1,89 @@
+body {
+    text-align: center;
+    background-color: rgb(228, 225, 225);
+    font-family: 'Fira Sans';
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(4, 120, 124);
+    padding: 10px;
+    margin: 12px;
+    font-family: 'Oswald';
+}
+
+img {
+    height: 100px;
+}
+
+main {
+    width: 1200px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.486);
+    background-color: rgb(166, 208, 245);
+    text-align: left;
+    color: rgb(68, 68, 68);
+    padding: 30px;
+    margin: 40px auto;
+}
+
+h2 {
+    color: rgb(4, 120, 124);
+    font-size: 40px;
+    margin: 5px 0;
+    font-family: 'Oswald';
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-weight: 700;
+    color: rgb(4, 120, 124);
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+    padding-left: 0;
+}
+
+li {
+    padding: 5px 0 5px 25px;
+    margin: 6px 0;
+}
+
+.highlight {
+    padding: 5px 0 5px 20px;
+    color: rgb(15, 107, 110);
+    border-left: 5px rgba(4, 120, 124, 0.514) solid;
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(218, 238, 250);
+    color: rgb(15, 107, 110);
+    padding: 5px 8px;
+    border-radius: 6px;
+}
+
+a:hover {
+    background-color: rgb(3, 146, 151);
+    color:white;
+}
+
+footer {
+    margin: 100px;
+}
+
+#button {
+    background-color: rgb(173, 0, 0);
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#button:hover {
+    background-color: rgb(226, 3, 3);
+}
